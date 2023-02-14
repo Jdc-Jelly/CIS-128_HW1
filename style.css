@@ -12,16 +12,20 @@ body {
     margin-right: 10%;
     
 }
+
 .me {
     margin-left: 10%;
     margin-right: 10%;
 }
+
 .why {
     margin-left: 10%;
     margin-right: 10%;
 }
 
 .title {
+    margin-left: 10%;
+    margin-right: 10%;
     font-size: 60px;
     font-family: Arial, Helvetica, sans-serif;
 }
