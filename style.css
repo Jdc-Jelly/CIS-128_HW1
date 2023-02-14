@@ -1,12 +1,18 @@
+body {
+    background-color: rgb(83, 78, 86);
+    text-decoration-color: aliceblue;
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-top: 50px;
+}
+
 .photo {
-    width: 25vw;
-    margin-left: 15%;
-    float: left;
-    margin-top: 1px;
+    width: 17vw;
+    
 }
 .about {
-    padding-top: 5vh;
-    margin-right: 15%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
 
 .title {
@@ -14,8 +20,8 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 .info {
-    margin-left: 15%;
-    margin-right: 15%;
+    margin-left: 10%;
+    margin-right: 10%;
     border: 1px red;
     padding-top: 15px;
     float: left;
@@ -31,15 +37,4 @@ a {
 
 .resources {
     float: left;
-}
-
-body {
-    background-color: rgb(83, 78, 86);
-    text-decoration-color: aliceblue;
-    color: rgb(255, 255, 255);
-    font-family: Arial, Helvetica, sans-serif; 
-}
-
-body {
-    margin-top: 50px;
 }
