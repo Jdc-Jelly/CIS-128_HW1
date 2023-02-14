@@ -10,9 +10,13 @@ body {
     width: 17vw;
     
 }
-.about {
-    padding-left: 10%;
-    padding-right: 10%;
+.me {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.why {
+    margin-left: 10%;
+    margin-right: 10%;
 }
 
 .title {
